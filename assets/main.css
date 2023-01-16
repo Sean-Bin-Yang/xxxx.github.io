@@ -25,7 +25,7 @@ body {
 	border-top:none;
 	max-width: 1000px;
 }
-
+/* 
 .header {
 	background-color:#6495ED;
 	margin-left: auto;
@@ -35,7 +35,7 @@ body {
 	border-right:solid 0px;
 	border-top:solid 0px;
 	max-width: 1000px;
-}
+} */
 
 @media screen and (min-width: 600px) {
 	#right-float {
