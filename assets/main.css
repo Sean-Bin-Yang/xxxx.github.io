@@ -102,12 +102,12 @@ li.pub {
 }
 
 .site-navigation li, .site-navigation a, .site-navigation a:visited {
-	color:#e500a1; 
+	color:white; 
 	text-decoration:none;
 }
 
 .site-navigation a:hover, .site-navigation a:focus {
-	color:#e500a1; 
+	color:white; 
 	text-decoration:underline;
 }
 
