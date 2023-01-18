@@ -84,7 +84,7 @@ li.pub {
 	font-size:100%;
 	font-weight:regular;
 	height:35px;
-	background-color:white;
+	background-color:#e500a1;
 	line-height:35px; 
 	padding:0% 1% 0% 1%;
 	display:inline; 
@@ -102,12 +102,12 @@ li.pub {
 }
 
 .site-navigation li, .site-navigation a, .site-navigation a:visited {
-	color:white; 
+	color:#e500a1; 
 	text-decoration:none;
 }
 
 .site-navigation a:hover, .site-navigation a:focus {
-	color:white; 
+	color:#e500a1; 
 	text-decoration:underline;
 }
 
