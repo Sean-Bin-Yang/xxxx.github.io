@@ -28,14 +28,14 @@ body {
 
 .header {
 	background-color:#9500ae;
-	margin-left: solid 0px;
-	margin-right: solid 0px;
+	margin-left: auto;
+	margin-right: auto;
 	height:40px;
 	padding:0.5% 2% 0.5% 2%;
 	border-left:solid 0px;
 	border-right:solid 0px;
 	border-top:solid 0px;
-	max-width: 1000px;
+/* 	max-width: 1000px; */
 }
 
 @media screen and (min-width: 600px) {
