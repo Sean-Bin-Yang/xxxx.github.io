@@ -35,7 +35,7 @@ body {
 	border-left:solid 0px;
 	border-right:solid 0px;
 	border-top:solid 0px;
-/* 	max-width: 1000px; */
+	max-width: auto;
 }
 
 @media screen and (min-width: 600px) {
